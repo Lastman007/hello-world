@@ -9,7 +9,7 @@
 <META NAME='language' CONTENT='English, EN' />
 <META name="description" content="shopping cart project with HTML5 and JavaScript">
 <META name="keywords" content="HTML5,CSS,JavaScript, html5 session storage, html5 local storage">
-<META name="author" content="dcwebmakers.com">
+<META name="author" content="dcwebmakers.comnn">
 <script src="Storage.js"></script>
 <link rel="stylesheet" href="StorageStyle.css">
 </head>
